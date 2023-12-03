@@ -22,6 +22,9 @@ pipenv shell
 # ingest data into vector database
 python ingestion.py
 
+# test
+python backend/core.py
+
 # run user interface
 python main.py
 ```
