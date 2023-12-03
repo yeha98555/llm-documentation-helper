@@ -14,6 +14,7 @@ wget --recursive --no-clobber --html-extension --convert-links --domains python.
     - Dimensions: `1536`
     - Pod Type: `starter`<br>
   - API Keys (create new API key or use default)
+  - copy `.env.sample` to `.env`, and replace the values.
 
 3. run
 ```
