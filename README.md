@@ -27,5 +27,5 @@ python ingestion.py
 python backend/core.py
 
 # run user interface
-python main.py
+streamlit run main.py
 ```
