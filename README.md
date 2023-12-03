@@ -9,11 +9,11 @@ wget --recursive --no-clobber --html-extension --convert-links --domains python.
 ```
 
 2. [pinecone](https://www.pinecone.io/) settings
-1) Create a new Index
-  - Name: `langchain-doc-index`
-  - Dimensions: `1536`
-  - Pod Type: `starter`
-2) API Keys (create new API key or use default)
+  - Create a new Index
+    - Name: `langchain-doc-index`
+    - Dimensions: `1536`
+    - Pod Type: `starter`<br>
+  - API Keys (create new API key or use default)
 
 3. run
 ```
